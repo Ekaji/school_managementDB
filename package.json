@@ -1,0 +1,14 @@
+{
+  "name": "school_management",
+  "version": "1.0.0",
+  "description": "a project to help store information about students,teachers and administrators",
+  "main": "index.js",
+  "author": "Ekaji",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.6",
+    "nodemon": "^2.0.6"
+  }
+}
